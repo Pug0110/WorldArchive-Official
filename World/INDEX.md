@@ -39,7 +39,7 @@
 
 ## P
 
-* [『百花の島』](PerfumeIsland.md)
+* [『百花の島』](FloralIsland.md)
 * [『白磁市国』](PorcelainCityState.md)
 * [『貴金の都市』](PreciousMetalCity.md)
 
